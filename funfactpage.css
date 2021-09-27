@@ -10,3 +10,11 @@ h1 {
 	text-transform: none;
 
 }
+
+h2 {
+	text-align: left;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: #00000;
+	font-style: normal;
+	font-weight: 400;
+}
